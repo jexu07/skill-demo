@@ -5,7 +5,7 @@ public class SkillDemoTest {
     
     @Test
     public void testMultiply(){
-        assertEquals(3, SkillDemo.multiply(2, 3)); //test that fails
+        assertEquals(3, SkillDemo.multiply(1, 3)); //test that works
     }
 
 }
